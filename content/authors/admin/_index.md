@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jiangtong Li(李江彤)
 
 # Username (this should match the folder name)
 authors:
