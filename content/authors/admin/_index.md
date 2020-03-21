@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Shanghai Jiao Tong University
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
