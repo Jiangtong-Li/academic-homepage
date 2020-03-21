@@ -90,7 +90,7 @@ address = {street = "800 Dongchuan R.D.", city = "Shanghai", region = "Minhang",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.025344603574666", longitude = "121.4417338371277"}
+coordinates = {latitude = "31.0253", longitude = "121.4417"}
 
 # Directions for visitors to locate you.
 directions = "SEIEE Building 3-东307"
