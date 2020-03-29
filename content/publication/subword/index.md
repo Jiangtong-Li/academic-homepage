@@ -6,7 +6,7 @@ authors:
 - Zhuosheng Zhang
 - Hai Zhao
 - Kangwei Ling
-- <b>Jiangtong Li<\b>
+- <b> Jiangtong Li </b>
 - Zuchao Li
 - Shexia He
 date: 2019-05-29T15:18:47+08:00
