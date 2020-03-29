@@ -11,7 +11,7 @@ authors:
 date: 2018-08-26T14:01:16+08:00
 doi: ""
 publication: Proceedings of the 27th International Conference on Computational Linguistics (COLING2018)
-publication_short: COLING 2018
+publication_short: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-03-29T14:01:16+08:00
@@ -73,5 +73,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-In Proceedings of the 27th International Conference on Computational Linguistics (COLING2018)
