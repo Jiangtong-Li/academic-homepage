@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Intern"
   company = "Tencent AI Lab"
-  company_url = "ai.tencent.com"
+  company_url = "https://ai.tencent.com"
   location = "Shenzhen, China"
   date_start = "2019-01-02"
   date_end = "2019-09-10"
