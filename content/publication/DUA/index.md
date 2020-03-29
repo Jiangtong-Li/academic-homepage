@@ -10,8 +10,6 @@ authors:
 - Gongshen Liu.
 date: 2018-08-26T14:01:16+08:00
 doi: ""
-publication: Proceedings of the 27th International Conference on Computational Linguistics (COLING2018)
-publication_short: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-03-29T14:01:16+08:00
@@ -23,7 +21,8 @@ publishDate: 2020-03-29T14:01:16+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-
+publication: Proceedings of the 27th International Conference on Computational Linguistics (COLING2018)
+publication_short: ""
 
 abstract: ""
 
