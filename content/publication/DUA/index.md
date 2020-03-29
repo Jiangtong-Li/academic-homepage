@@ -4,7 +4,7 @@
 title: "Modeling Multi-turn Conversation with Deep Utterance Aggregation"
 authors: 
 - Zhuosheng Zhang*
-- admin *
+- admin*
 - Pengfei Zhu
 - Hai Zhao
 - Gongshen Liu
