@@ -4,7 +4,7 @@
 title: "Modeling Multi-turn Conversation with Deep Utterance Aggregation"
 authors: [Zhuosheng Zhang*, Jiangtong Li*, Pengfei Zhu, Hai Zhao, Gongshen Liu.]
 date: 2018-08-26T14:01:16+08:00
-doi: ""
+doi: "Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-03-29T14:01:16+08:00
@@ -13,7 +13,7 @@ publishDate: 2020-03-29T14:01:16+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 27th International Conference on Computational Linguistics"
