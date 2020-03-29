@@ -6,10 +6,10 @@ authors:
 - Zhuosheng Zhang
 - Hai Zhao
 - Kangwei Ling
-- Jiangtong Li*
+- <b>Jiangtong Li<\b>
 - Zuchao Li
 - Shexia He
-date: 2019-03-29T15:18:47+08:00
+date: 2019-05-29T15:18:47+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
