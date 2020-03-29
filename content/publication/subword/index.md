@@ -1,9 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Subword"
-authors: []
-date: 2020-03-29T15:18:47+08:00
+title: "Effective Subword Segmentation for Text Comprehension"
+authors: [Zhuosheng Zhang, Hai Zhao, Kangwei Ling, Jiangtong Li, Zuchao Li, Shexia He.
+]
+date: 2019-03-29T15:18:47+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +14,10 @@ publishDate: 2020-03-29T15:18:47+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)"
 publication_short: ""
 
 abstract: ""
