@@ -74,6 +74,4 @@ projects: []
 slides: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+In Proceedings of the 27th International Conference on Computational Linguistics (COLING2018)
