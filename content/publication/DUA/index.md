@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Modeling Multi-turn Conversation with Deep Utterance Aggregation"
-authors: [Zhuosheng Zhang^{*}, Jiangtong Li^{*}, Pengfei Zhu, Hai Zhao, Gongshen Liu.]
+authors: [Zhuosheng Zhang*, Jiangtong Li*, Pengfei Zhu, Hai Zhao, Gongshen Liu.]
 date: 2020-03-29T14:01:16+08:00
 doi: ""
 
