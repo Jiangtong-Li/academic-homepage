@@ -7,7 +7,7 @@ authors:
 - Zhuosheng Zhang
 - Pengfei Zhu
 - Hai Zhao
-- Gongshen Liu. 
+- Gongshen Liu.
 date: 2018-08-26T14:01:16+08:00
 doi: ""
 publication: Proceedings of the 27th International Conference on Computational Linguistics (COLING2018)
