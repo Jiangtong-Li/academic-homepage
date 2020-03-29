@@ -3,7 +3,7 @@
 
 title: "Modeling Multi-turn Conversation with Deep Utterance Aggregation"
 authors: [Zhuosheng Zhang^{*}, Jiangtong Li^{*}, Pengfei Zhu, Hai Zhao, Gongshen Liu.]
-date: 2018-08-20
+date: 2020-03-29T14:01:16+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
