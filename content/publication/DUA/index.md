@@ -3,7 +3,7 @@
 
 title: "Modeling Multi-turn Conversation with Deep Utterance Aggregation"
 authors: [Zhuosheng Zhang*, Jiangtong Li*, Pengfei Zhu, Hai Zhao, Gongshen Liu.]
-date: 2020-03-29T14:01:16+08:00
+date: 2018-08-26T14:01:16+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of the 27th International Conference on Computational Linguistics"
 publication_short: "COLING 2018"
 
-abstract: "Multi-turn conversation understanding is a major challenge for building intelligent dialogue sys- tems. This work focuses on retrieval-based response matching for multi-turn conversation whose related work simply concatenates the conversation utterances, ignoring the interactions among previous utterances for context modeling. In this paper, we formulate previous utterances into context using a proposed deep utterance aggregation model to form a fine-grained context rep- resentation. In detail, a self-matching attention is first introduced to route the vital information in each utterance. Then the model matches a response with each refined utterance and the fi- nal matching score is obtained after attentive turns aggregation. Experimental results show our model outperforms the state-of-the-art methods on three multi-turn conversation benchmarks, including a newly introduced e-commerce dialogue corpus."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,8 +37,8 @@ featured: false
 #   icon: twitter
 
 url_pdf: 
-url_code:
-url_dataset:
+url_code: https://github.com/Jiangtong-Li/DeepUtteranceAggregation
+url_dataset: https://drive.google.com/file/d/154J-neBo20ABtSmJDvm7DK0eTuieAuvw/view?usp=sharing
 url_poster:
 url_project:
 url_slides:
@@ -49,9 +49,9 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: "Smart"
-  preview_only: false
+  caption: "Model Structure"
+  focal_point: "Right"
+  preview_only: True
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
