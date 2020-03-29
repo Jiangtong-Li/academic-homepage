@@ -3,11 +3,11 @@
 
 title: "Modeling Multi-turn Conversation with Deep Utterance Aggregation"
 authors: 
+- **Jiangtong Li***
 - Zhuosheng Zhang*
-- admin*
 - Pengfei Zhu
 - Hai Zhao
-- Gongshen Liu
+- Gongshen Liu. 
 - In Proceedings of the 27th International Conference on Computational Linguistics (COLING2018)
 date: 2018-08-26T14:01:16+08:00
 doi: ""

@@ -2,7 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Effective Subword Segmentation for Text Comprehension"
-authors: [Zhuosheng Zhang, Hai Zhao, Kangwei Ling, Jiangtong Li, Zuchao Li, Shexia He.
+authors: [
+- Zhuosheng Zhang
+- Hai Zhao
+- Kangwei Ling
+- Jiangtong Li
+- Zuchao Li
+- Shexia He.
+- In IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
 ]
 date: 2019-03-29T15:18:47+08:00
 doi: ""
@@ -37,7 +44,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/pdf/1811.02364.pdf
 url_code:
 url_dataset:
 url_poster:
