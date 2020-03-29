@@ -6,7 +6,7 @@ authors:
 - Zhuosheng Zhang
 - Hai Zhao
 - Kangwei Ling
-- <b> Jiangtong Li </b>
+- <b> <i> Jiangtong Li* </i> </b>
 - Zuchao Li
 - Shexia He
 date: 2019-05-29T15:18:47+08:00
@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)"
 publication_short: ""
 
-abstract: ""
+abstract: "Representation learning is the foundation of ma- chine reading comprehension and inference. In state-of-the- art models, character-level representations have been broadly adopted to alleviate the problem of effectively representing rare or complex words. However, character itself is not a natural minimal linguistic unit for representation or word embedding composing due to ignoring the linguistic coherence of consecutive characters inside word. This paper presents a general subword- augmented embedding framework for learning and composing computationally-derived subword-level representations. We sur- vey a series of unsupervised segmentation methods for subword acquisition and different subword-augmented strategies for text understanding, showing that subword-augmented embedding significantly improves our baselines in various types of text understanding tasks on both English and Chinese benchmarks."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -43,7 +43,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://arxiv.org/pdf/1811.02364.pdf
-url_code:
+url_code: https://github.com/Jiangtong-Li/subword_seg
 url_dataset:
 url_poster:
 url_project:
