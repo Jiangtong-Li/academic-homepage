@@ -64,8 +64,8 @@ user_groups:
 - Visitors
 ---
 
-Jiangtong Li (李江彤) is currently a Ph.D student at [Department of Computer Science and Technology](http://www.cs.sjtu.edu.cn/) in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in China. His also selected into [Zhiyuan Honored Ph.D Program](http://yzb.sjtu.edu.cn/info/1004/2672.htm) and [Wenjun Wu Honored Ph.D Class](https://news.sjtu.edu.cn/jdyw/20190930/111855.html). His research advisors are [Prof. Liqing Zhang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=137), [Prof. Li Niu](http://bcmi.sjtu.edu.cn/home/niuli/) and [Prof. James Tin-Yau Kwok](http://www.cse.ust.hk/~jamesk/)
+Jiangtong Li (李江彤) is currently a Ph.D student at [Department of Computer Science and Technology](http://www.cs.sjtu.edu.cn/) in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in China. His also selected into [Zhiyuan Honored Ph.D Program](http://yzb.sjtu.edu.cn/info/1004/2672.htm) and [Wenjun Wu Honored Ph.D Class](https://news.sjtu.edu.cn/jdyw/20190930/111855.html).His research advisors are [Prof. Liqing Zhang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=137), [Prof. Li Niu](http://bcmi.sjtu.edu.cn/home/niuli/) and [Prof. James Tin-Yau Kwok](http://www.cse.ust.hk/~jamesk/)
 
-Previously, he was a research intern in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), supervised by [Wei Bi](https://scholar.google.com/citations?user=aSJcgQMAAAAJ&hl=zh-CN) and a research assistant supervised by [Prof. Hai Zhao](http://bcmi.sjtu.edu.cn/~zhaohai/).
+Previously, he was a research intern in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), supervised by [Wei Bi](https://scholar.google.com/citations?user=aSJcgQMAAAAJ&hl=zh-CN) and a research assistant supervised by [Prof. Hai Zhao](http://bcmi.sjtu.edu.cn/~zhaohai/)
 
 His research interests include computer vision, natural language processing and machine learning, especially, dialogue system and multi-modal learning.
