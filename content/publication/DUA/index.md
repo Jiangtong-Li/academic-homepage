@@ -3,8 +3,8 @@
 
 title: "Modeling Multi-turn Conversation with Deep Utterance Aggregation"
 authors: 
-- Jiangtong Li*
-- Zhuosheng Zhang*
+- Jiangtong Li
+- Zhuosheng Zhang
 - Pengfei Zhu
 - Hai Zhao
 - Gongshen Liu.

@@ -3,8 +3,8 @@
 
 title: "Lattice-Based Transformer Encoder for Neural Machine Translation,"
 authors:
-- Fengshun Xiao*
-- <b> <i> Jiangtong Li* </i> </b>
+- Fengshun Xiao
+- Jiangtong Li
 - Hai Zhao
 - Rui Wang
 - Kehai Chen.
