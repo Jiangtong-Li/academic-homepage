@@ -22,7 +22,7 @@ publishDate: 2020-03-29T15:18:47+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)"
+publication: "IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP 2019)"
 publication_short: ""
 
 abstract: "Representation learning is the foundation of machine reading comprehension and inference. In state-of-the-art models, character-level representations have been broadly adopted to alleviate the problem of effectively representing rare or complex words. However, character itself is not a natural minimal linguistic unit for representation or word embedding composing due to ignoring the linguistic coherence of consecutive characters inside word. This paper presents a general subword-augmented embedding framework for learning and composing computationally-derived subword-level representations. We survey a series of unsupervised segmentation methods for subword acquisition and different subword-augmented strategies for text understanding, showing that subword-augmented embedding significantly improves our baselines in various types of text understanding tasks on both English and Chinese benchmarks."

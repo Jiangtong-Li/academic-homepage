@@ -19,27 +19,35 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Ph.D Student"
-  company = "Shanghai Jiao Tong University"
-  company_url = ""
+  title = "Ph.D Candidate"
+  company = "MoE Key Lab of Artificial Intelligence, Shanghai Jiao Tong University"
+  company_url = "https://https://ai.sjtu.edu.cn"
   location = "Shanghai, China"
   date_start = "2019-09-12"
   date_end = ""
-  description = """Research on computer vision, specifically, I research on multi-model retrieval and zero-shot learning recently."""
+  description = """
+  Research area include:
+  
+  * Language-guided Vision Understanding
+  * Casual Inference
+  * Image-Text Retrieval
+  * Image-Video Retrieval
+  * Zero-shot Retrieval
+  """
 
 [[experience]]
   title = "Research Intern"
   company = "Tencent AI Lab"
   company_url = "https://ai.tencent.com"
-  location = "Shenzhen, China"
+  location = "Shenzhen, Guangzhou, China"
   date_start = "2019-01-02"
   date_end = "2019-09-10"
   description = """Research on Interactive Dialogue System based on topic transfer and Transfer Learning on Pre-trained Language Model"""
 
 [[experience]]
   title = "Research Asistant"
-  company = "Shanghai Jiao Tong University"
-  company_url = ""
+  company = "Center for Brain-like Computing and Machine Intelligence, Shanghai Jiao Tong University"
+  company_url = "https://bcmi.sjtu.edu.cn"
   location = "Shanghai, China"
   date_start = "2017-06-01"
   date_end = "2019-06-30"
