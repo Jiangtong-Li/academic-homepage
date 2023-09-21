@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering"
+title: "Knowledge Proxy Intervention for Deconfounded Video Question Answering"
 authors: 
 - Jiangtong Li
 - Li Niu
 - Liqing Zhang.
-date: 2022-06-21T14:01:16+08:00
+date: 2023-10-03T14:01:16+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-06-21T14:01:16+08:00
+publishDate: 2023-09-03T14:01:16+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publishDate: 2022-06-21T14:01:16+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)
+publication: Proceedings of the IEEE / CVF International Conference on Computer Vision (ICCV 2023)
 publication_short: ""
 
-abstract: "Video understanding has achieved great success in rep- resentation learning, such as video caption, video object grounding, and video descriptive question-answer. How- ever, current methods still struggle on video reasoning, including evidence reasoning and commonsense reason- ing. To facilitate deeper video understanding towards video reasoning, we present the task of Causal-VidQA, which includes four types of questions ranging from scene de- scription (description) to evidence reasoning (explanation) and commonsense reasoning (prediction and counterfac- tual). For commonsense reasoning, we set up a two- step solution by answering the question and providing a proper reason. Through extensive experiments on existing VideoQA methods, we find that the state-of-the-art methods are strong in descriptions but weak in reasoning. We hope that Causal-VidQA can guide the research of video under- standing from representation learning to deeper reasoning. The dataset and related resources are available at https: //github.com/bcmi/Causal-VidQA.git."
+abstract: "Recently, Video Question-Answering (VideoQA) has drawn more and more attention from both the industry and the research community. Despite all the success achieved by recent works, dataset bias always harmfully misleads current methods focusing on spurious correlations in train- ing data. To analyze the effects of dataset bias, we frame the VideoQA pipeline into a causal graph, which shows the causalities among video, question, aligned feature be- tween video and question, answer, and underlying con- founder. Through the causal graph, we prove that the con- founder and the backdoor path lead to spurious causality. To tackle the challenge that the confounder in VideoQA is unobserved and non-enumerable in general, we pro- pose a model-agnostic framework called Knowledge Proxy Intervention (KPI), which introduces an extra knowledge proxy variable in the causal graph to cut the backdoor path and remove the effect of confounder. Our KPI frame- work exploits the front-door adjustment, which requires no prior knowledge about the confounder. The effectiveness of our KPI framework is corroborated by three baseline methods on five benchmark datasets, including MSVD-QA, MSRVTT-QA, TGIF-QA, NExT-QA, and Causal-VidQA."
 
 # Summary. An optional shortened abstract.
 summary: ""
