@@ -65,8 +65,8 @@ user_groups:
 - Visitors
 ---
 
-Jiangtong Li (李江彤) is currently a Ph.D candiadate at [Department of Computer Science and Technology](http://www.cs.sjtu.edu.cn/) in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in China. His also selected into [Wenjun Wu Honored Ph.D Class](https://news.sjtu.edu.cn/jdyw/20190930/111855.html). His research advisors are [Prof. Liqing Zhang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=137), [Prof. Li Niu](http://bcmi.sjtu.edu.cn/home/niuli/) and [Prof. James Tin-Yau Kwok](http://www.cse.ust.hk/~jamesk/). Prior to that, he obtained his B.E. degree from the Shanghai Jiao Tong University in 2019.
+Jiangtong Li (李江彤) is currently a Ph.D candiadate at [Department of Computer Science and Technology](http://www.cs.sjtu.edu.cn/) in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in China. His also selected into [Wenjun Wu Honored Ph.D Class](https://news.sjtu.edu.cn/jdyw/20190930/111855.html). His research advisors are [Prof. Liqing Zhang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=137) and [Prof. Li Niu](http://bcmi.sjtu.edu.cn/home/niuli/). Prior to that, he obtained his B.E. degree from the Shanghai Jiao Tong University in 2019.
 
 Previously, he was a research intern in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), supervised by [Wei Bi](https://scholar.google.com/citations?user=aSJcgQMAAAAJ&hl=zh-CN) and a research assistant supervised by [Prof. Hai Zhao](http://bcmi.sjtu.edu.cn/~zhaohai/).
 
-His research interests include computer vision, natural language processing, especially the language-guided vision understanding and casual inference.
+His research interests include computer vision, natural language processing, big data in financial, especially the language-guided vision understanding, casual inference, and financial risk assessment.
