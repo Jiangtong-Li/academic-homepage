@@ -81,19 +81,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jiangtongli1997@gmail.com, keep_moving-Lee@sjtu.edu.cn"
+email = "jiangtongli@tongji.edu.cn"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "800 Dongchuan R.D.", city = "Shanghai", region = "Minhang", postcode = "200240", country = "China", country_code = "Ch"}
+address = {street = "4800 CaoAn R.D.", city = "Shanghai", region = "Jiading", postcode = "", country = "China", country_code = "Ch"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.0253", longitude = "121.4417"}
+coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
-directions = "SEIEE Building 3-东307"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -253,7 +253,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 

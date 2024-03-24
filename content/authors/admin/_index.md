@@ -10,27 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Shanghai Jiao Tong University
-  url: "https://www.sjtu.edu.cn"
+- name: Tongji University
+  url: "https://www.tongji.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision (CV) and neural language processing (NLP), especially the language-guided vision understanding and casual inference.
+bio: My research interests include multi-modal modeling, large language model, graph learning and big data in finance.
 
 interests:
-- Computer Vision
-- Neural Language Processing
-- Language-guided Vision Understanding
-- Casual Inference
+- Multi-Modal Modeling
+- Large Language Model
+- Graph Learning
+- Big Data in Finance
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: Shanghai Jiao Tong University
-    year: 2019 - Now
+    year: 2019 - 2024
   - course: BSc in Chemistry
     institution: Shanghai Jiao Tong University
     year: 2015 - 2019
@@ -51,12 +51,12 @@ social:
   link: https://github.com/Jiangtong-Li
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/CV.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jiangtongli1997@gmail.com"
+email: "jiangtongli@tongji.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -65,8 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Jiangtong Li (李江彤) is currently a Ph.D candiadate at [Department of Computer Science and Technology](http://www.cs.sjtu.edu.cn/) in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in China. His also selected into [Wenjun Wu Honored Ph.D Class](https://news.sjtu.edu.cn/jdyw/20190930/111855.html). His research advisors are [Prof. Liqing Zhang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=137) and [Prof. Li Niu](http://bcmi.sjtu.edu.cn/home/niuli/). Prior to that, he obtained his B.E. degree from the Shanghai Jiao Tong University in 2019.
+Jiangtong Li (李江彤) is currently a postdoctoral associate, supervised by [Prof. Changjun Jiang](https://see.tongji.edu.cn/info/1233/7514.htm) at Department of [Computer Science and Technology](https://cs.tongji.edu.cn/) of [Tongji University](https://www.tongji.edu.cn/) (同济大学), Shanghai, China. His research interests include multi-modal modeling, large language model, graph learning, and big data in financial.
 
-Previously, he was a research intern in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), supervised by [Wei Bi](https://scholar.google.com/citations?user=aSJcgQMAAAAJ&hl=zh-CN) and a research assistant supervised by [Prof. Hai Zhao](http://bcmi.sjtu.edu.cn/~zhaohai/).
-
-His research interests include computer vision, natural language processing, big data in financial, especially the language-guided vision understanding, casual inference, and financial risk assessment.
+Prior to that, he obtained his Ph.D degree in computer science from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), supervised by [Prof. Liqing Zhang](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=137) and [Prof. Li Niu](http://bcmi.sjtu.edu.cn/home/niuli/), and bachelor in chemistry from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) in China. During the His was also selected into [Wenjun Wu Honored Ph.D Class](https://news.sjtu.edu.cn/jdyw/20190930/111855.html).

@@ -19,12 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Ph.D Candidate"
+  title = "Postdoctoral Associate"
+  company = "Department of Computer Science and Technology, Tongji University"
+  company_url = "https://cs.tongji.edu.cn"
+  location = "Shanghai, China"
+  date_start = "2024-01-15"
+  date_end = ""
+  description = """
+  Research area include:
+  
+  * Multi-Modal Modeling
+  * Large Language Model
+  * Graph Learning
+  * Big Data in Finance
+  """
+
+[[experience]]
+  title = "Ph.D"
   company = "MoE Key Lab of Artificial Intelligence, Shanghai Jiao Tong University"
   company_url = "https://https://ai.sjtu.edu.cn"
   location = "Shanghai, China"
   date_start = "2019-09-12"
-  date_end = ""
+  date_end = "2024-03-15"
   description = """
   Research area include:
   

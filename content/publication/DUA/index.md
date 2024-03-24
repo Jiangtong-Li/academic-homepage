@@ -21,8 +21,8 @@ publishDate: 2020-03-29T14:01:16+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the 27th International Conference on Computational Linguistics (COLING2018)
-publication_short: ""
+publication: Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)
+publication_short: "COLING 2018"
 
 abstract: "Multi-turn conversation understanding is a major challenge for building intelligent dialogue systems. This work focuses on retrieval-based response matching for multi-turn conversation whose related work simply concatenates the conversation utterances, ignoring the interactions among previous utterances for context modeling. In this paper, we formulate previous utterances into context using a proposed deep utterance aggregation model to form a fine-grained context representation. In detail, a self-matching attention is first introduced to route the vital information in each utterance. Then the model matches a response with each refined utterance and the final matching score is obtained after attentive turns aggregation. Experimental results show our model outperforms the state-of-the-art methods on three multi-turn conversation benchmarks, including a newly introduced e-commerce dialogue corpus."
 

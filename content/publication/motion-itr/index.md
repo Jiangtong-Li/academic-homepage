@@ -20,9 +20,9 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the 36th AAAI Conference on Artifical Intelligence (AAAI 2022)
-publication_short: ""
+publication_short: "AAAI 2022"
 
-abstract: "Image-text retrieval plays a central role in bridging vision and language, which aims to reduce the semantic discrepancy between images and texts. Most of existing works rely on refined words and objects representation through the data-oriented method to capture the word-object cooccurrence. Such approaches are prone to ignore the asymmetric action relation between images and texts, that is, the text has explicit action representation (i.e., verb phrase) while the image only contains implicit action information. In this paper, we propose Action-aware Memory-Enhanced embedding (AME) method for image-text retrieval, which aims to emphasize the action information when mapping the images and texts into a shared embedding space. Specifically, we integrate action prediction along with a action-aware memory bank to enrich the image and text features with action-similar text features. The effectiveness of our proposed AME method is verified by comprehensive experimental results on two benchmark datasets."
+abstract: "Image-text retrieval plays a central role in bridging vision and language, which aims to reduce the semantic discrepancy between images and texts. Most of existing works rely on refined words and objects representation through the data-oriented method to capture the word-object cooccurrence. Such approaches are prone to ignore the asymmetric action relation between images and texts, that is, the text has explicit action representation (*i.e*., verb phrase) while the image only contains implicit action information. In this paper, we propose Action-aware Memory-Enhanced embedding (AME) method for image-text retrieval, which aims to emphasize the action information when mapping the images and texts into a shared embedding space. Specifically, we integrate action prediction along with a action-aware memory bank to enrich the image and text features with action-similar text features. The effectiveness of our proposed AME method is verified by comprehensive experimental results on two benchmark datasets."
 
 # Summary. An optional shortened abstract.
 summary: ""
